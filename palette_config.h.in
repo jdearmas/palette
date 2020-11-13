@@ -1,0 +1,3 @@
+// the configured options and settings for palette
+#define palette_VERSION_MAJOR @palette_VERSION_MAJOR@
+#define palette_VERSION_MINOR @palette_VERSION_MINOR@
